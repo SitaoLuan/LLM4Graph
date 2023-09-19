@@ -1,7 +1,7 @@
 # Large Language Model for Graph Representation Learning (LLM4Graph)
 
 ## Motivation
-Large Language Model (LLM) has revolutionaized lots of areas and is now making its way into conventional graph representation learning. Some empirical evidence already shows that, with the powerful LLM, graph neural network doesn't seem to be irreplaceable and this trend is inevitable. So we try to embrace it and keep track of its development. In this repo, we collect papers focusing on LLM for graph learning tasks at node, edge and graph levels. If you found that we missed a related or interesting paper, feel free to contact us by email (sitao.luan@mail.mcgill.ca, luansito@mila.quebec, jiaqi.zhu@mail.mcgill.ca).
+Large Language Model (LLM) has revolutionized lots of areas and is now making its way into conventional graph representation learning. Some empirical evidence already shows that, with the powerful LLM, graph neural network doesn't seem to be irreplaceable and this trend is inevitable and unstoppable. So we will try to embrace it and keep track of its development. In this repository, we collect papers focusing on **LLM for graph learning tasks at node, edge and graph levels**. If you found that we missed any related or interesting work, feel free to let us know by email (sitao.luan@mail.mcgill.ca, luansito@mila.quebec, jiaqi.zhu@mail.mcgill.ca).
 
 ## Paper List
 
@@ -12,7 +12,8 @@ Large Language Model (LLM) has revolutionaized lots of areas and is now making i
 - (*arXiv 2023.07*) Can Large Language Models Empower Molecular Property Prediction? [[paper](https://arxiv.org/abs/2307.07443)] [[code](https://github.com/ChnQ/LLM4Mol)]
 - (*arXiv 2023.09*) Unleashing the Power of Graph Learning through LLM-based Autonomous Agents [[paper](https://arxiv.org/abs/2309.04565)]
 - (*openreview*) Pretrained Language Models to Solve Graph Tasks in Natural Language [[paper](https://openreview.net/forum?id=LfCzmmnH4L)]
-## Related Repos
+
+## Related Repository
 
 - [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
 - [Awesome-LLM-KG](https://github.com/XiaoxinHe/Awesome-Graph-LLM)

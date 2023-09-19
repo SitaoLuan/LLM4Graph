@@ -16,5 +16,5 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 ## Related Repository
 
 - [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
-- [Awesome-LLM-KG](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
-- [KG-LLM-Papers](https://github.com/XiaoxinHe/Awesome-Graph-LLM) 
+- [Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG)
+- [KG-LLM-Papers](https://github.com/zjukg/KG-LLM-Papers) 

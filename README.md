@@ -18,7 +18,7 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*arXiv 2023.07*) Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs [[paper](https://arxiv.org/abs/2307.03393)] [[code](https://github.com/CurryTang/Graph-LLM)][[blog in Chinese](https://zhuanlan.zhihu.com/p/648366848)]
 - (*arXiv 2023.07*) Can Large Language Models Empower Molecular Property Prediction? [[paper](https://arxiv.org/abs/2307.07443)] [[code](https://github.com/ChnQ/LLM4Mol)]
 - (*arXiv 2023.07*) Prompt Tuning on Graph-augmented Low-resource Text Classification [[paper](https://arxiv.org/abs/2307.10230)] [[code]([https://github.com/ChnQ/LLM4Mol](https://github.com/wenzhihao666/g2p2-conditional))]
-- (*arXiv 2023.07*) Prompt-Based Zero- and Few-Shot Node Classification: A Multimodal Approach [[paper](https://arxiv.org/abs/2307.11572)] [[code]([https://github.com/ChnQ/LLM4Mol](https://github.com/wenzhihao666/g2p2-conditional))]
+- (*arXiv 2023.07*) Prompt-Based Zero- and Few-Shot Node Classification: A Multimodal Approach [[paper](https://arxiv.org/abs/2307.11572)] [[code](https://github.com/wenzhihao666/g2p2-conditional)]
 - 🔥(*arXiv 2023.08*) Natural Language is All a Graph Needs [[paper](https://arxiv.org/abs/2308.07134)]
 - (*arXiv 2023.09*) Unleashing the Power of Graph Learning through LLM-based Autonomous Agents [[paper](https://arxiv.org/abs/2309.04565)]
 - 🔥Can LLMs Effectively Leverage Structural Information for Graph Learning: When and Why [[paper](https://arxiv.org/pdf/2309.16595)]

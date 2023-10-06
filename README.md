@@ -22,7 +22,8 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*arXiv 2023.07*) Prompt-Based Zero- and Few-Shot Node Classification: A Multimodal Approach [[paper](https://arxiv.org/abs/2307.11572)]
 - 🔥(*arXiv 2023.08*) Natural Language is All a Graph Needs [[paper](https://arxiv.org/abs/2308.07134)]
 - (*arXiv 2023.09*) Unleashing the Power of Graph Learning through LLM-based Autonomous Agents [[paper](https://arxiv.org/abs/2309.04565)]
-- 🔥(*arXiv 2023.09*) Can LLMs Effectively Leverage Structural Information for Graph Learning: When and Why [[paper](https://arxiv.org/pdf/2309.16595)]
+- 🔥(*arXiv 2023.09*) Can LLMs Effectively Leverage Structural Information for Graph Learning: When and Why [[paper](https://arxiv.org/pdf/2309.16595)] [[code](https://github.com/TRAIS-Lab/LLM-Structured-Data)]
+- (*arXiv 2023.09*) One for All: Towards Training One Graph Model for All Classification Tasks [[paper](https://arxiv.org/abs/2310.00149)] [[code](https://github.com/lechengkong/oneforall)]
 - 🔥(*arXiv 2023.10*) GraphText: Graph Reasoning in Text Space [[paper](https://arxiv.org/abs/2310.01089)]
 
 

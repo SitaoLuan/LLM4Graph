@@ -15,6 +15,7 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*NeurIPS 2023*) GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning [[paper](https://arxiv.org/abs/2306.13089)] [[code](https://github.com/zhao-ht/GIMLET)]
 - (*arXiv 2023.02*) SGL-PT: A Strong Graph Learner with Graph Prompt Tuning [[paper](https://arxiv.org/abs/2302.12449)] [[blog in Chinese](https://zhuanlan.zhihu.com/p/618781703)]
 - 🔥(*arXiv 2023.05*) Explanations as Features: LLM-Based Features for Text-Attributed Graphs [[paper](https://arxiv.org/abs/2305.19523)][[code](https://github.com/XiaoxinHe/TAPE)]
+- (*openreview*) Pretrained Language Models to Solve Graph Tasks in Natural Language [[paper](https://openreview.net/forum?id=LfCzmmnH4L)]
 - (*arXiv 2023.07*) Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs [[paper](https://arxiv.org/abs/2307.03393)] [[code](https://github.com/CurryTang/Graph-LLM)][[blog in Chinese](https://zhuanlan.zhihu.com/p/648366848)]
 - (*arXiv 2023.07*) Can Large Language Models Empower Molecular Property Prediction? [[paper](https://arxiv.org/abs/2307.07443)] [[code](https://github.com/ChnQ/LLM4Mol)]
 - (*arXiv 2023.07*) Prompt Tuning on Graph-augmented Low-resource Text Classification [[paper](https://arxiv.org/abs/2307.10230)] [[code](https://github.com/wenzhihao666/g2p2-conditional)]
@@ -22,7 +23,8 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - 🔥(*arXiv 2023.08*) Natural Language is All a Graph Needs [[paper](https://arxiv.org/abs/2308.07134)]
 - (*arXiv 2023.09*) Unleashing the Power of Graph Learning through LLM-based Autonomous Agents [[paper](https://arxiv.org/abs/2309.04565)]
 - 🔥(*arXiv 2023.09*) Can LLMs Effectively Leverage Structural Information for Graph Learning: When and Why [[paper](https://arxiv.org/pdf/2309.16595)]
-- (*openreview*) Pretrained Language Models to Solve Graph Tasks in Natural Language [[paper](https://openreview.net/forum?id=LfCzmmnH4L)]
+- 🔥(*arXiv 2023.10*) GraphText: Graph Reasoning in Text Space [[paper](https://arxiv.org/abs/2310.01089)]
+
 
 
 ## Related Repository

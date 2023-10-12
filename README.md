@@ -25,9 +25,10 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - 🔥(*arXiv 2023.09*) Can LLMs Effectively Leverage Structural Information for Graph Learning: When and Why [[paper](https://arxiv.org/pdf/2309.16595)] [[code](https://github.com/TRAIS-Lab/LLM-Structured-Data)]
 - (*arXiv 2023.09*) One for All: Towards Training One Graph Model for All Classification Tasks [[paper](https://arxiv.org/abs/2310.00149)] [[code](https://github.com/lechengkong/oneforall)]
 - 🔥(*arXiv 2023.10*) GraphText: Graph Reasoning in Text Space [[paper](https://arxiv.org/abs/2310.01089)]
-- (*arXiv 2023.10*) Talk Like a Graph: Encoding Graphs for Large Language Models [[paper](https://arxiv.org/pdf/2310.04560.pdf)]
 - (*arXiv 2023.10*) Label-free Node Classification on Graphs with Large Language Models (LLMS) [[paper](https://arxiv.org/abs/2310.04668)]
 - (*arXiv 2023.10*) GraphLLM: Boosting Graph Reasoning Ability of Large Language Model [[paper](https://arxiv.org/abs/2310.05845)][[code](https://github.com/mistyreed63849/Graph-LLM)]
+- (*arXiv 2023.10*) Talk Like a Graph: Encoding Graphs for Large Language Models [[paper](https://arxiv.org/abs/2310.04560)]
+- (*arXiv 2023.10*) Beyond Text: A Deep Dive into Large Language Models' Ability on Understanding Graph Data [[paper](https://arxiv.org/abs/2310.04944)]
 
 
 

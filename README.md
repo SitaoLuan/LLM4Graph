@@ -21,6 +21,7 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*arXiv 2023.07*) Prompt Tuning on Graph-augmented Low-resource Text Classification [[paper](https://arxiv.org/abs/2307.10230)] [[code](https://github.com/wenzhihao666/g2p2-conditional)]
 - (*arXiv 2023.07*) Prompt-Based Zero- and Few-Shot Node Classification: A Multimodal Approach [[paper](https://arxiv.org/abs/2307.11572)]
 - 🔥(*arXiv 2023.08*) Natural Language is All a Graph Needs [[paper](https://arxiv.org/abs/2308.07134)]
+- (*arXiv 2023.08*) SimTeG: A Frustratingly Simple Approach Improves Textual Graph Learning [[paper](https://arxiv.org/abs/2308.02565)]
 - (*arXiv 2023.09*) Unleashing the Power of Graph Learning through LLM-based Autonomous Agents [[paper](https://arxiv.org/abs/2309.04565)]
 - 🔥(*arXiv 2023.09*) Can LLMs Effectively Leverage Structural Information for Graph Learning: When and Why [[paper](https://arxiv.org/pdf/2309.16595)] [[code](https://github.com/TRAIS-Lab/LLM-Structured-Data)]
 - (*arXiv 2023.09*) One for All: Towards Training One Graph Model for All Classification Tasks [[paper](https://arxiv.org/abs/2310.00149)] [[code](https://github.com/lechengkong/oneforall)]
@@ -35,6 +36,7 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 ## Related Repository
 
 - [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
+- [awesome-large-graph-model](https://github.com/THUMNLab/awesome-large-graph-model)
 - [Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG)
 - [KG-LLM-Papers](https://github.com/zjukg/KG-LLM-Papers)
 - [Awesome-Graph-Prompt](https://github.com/WxxShirley/Awesome-Graph-Prompt)

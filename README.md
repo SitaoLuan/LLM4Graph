@@ -30,6 +30,11 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*arXiv 2023.10*) GraphLLM: Boosting Graph Reasoning Ability of Large Language Model [[paper](https://arxiv.org/abs/2310.05845)][[code](https://github.com/mistyreed63849/Graph-LLM)]
 - (*arXiv 2023.10*) Talk Like a Graph: Encoding Graphs for Large Language Models [[paper](https://arxiv.org/abs/2310.04560)]
 - (*arXiv 2023.10*) Beyond Text: A Deep Dive into Large Language Models' Ability on Understanding Graph Data [[paper](https://arxiv.org/abs/2310.04944)]
+- (*arXiv 2023.10*) Empower Text-Attributed Graphs Learning with Large Language Models (LLMs) [[paper](https://arxiv.org/abs/2310.09872)]
+- (*openreview*) Efficient Large Language Models Fine-Tuning on Graphs [[paper](https://openreview.net/forum?id=DVA0NDUdCQ)]
+- (*openreview*) Spatio-Temporal Graph Learning with Large Language Model [[paper](https://openreview.net/forum?id=QUkcfqa6GX)]
+- (*openreview*) Simple Yet Effective Spatio-Temporal Prompt Learning [[paper](https://openreview.net/forum?id=YUNnVFlpjp)]
+- (*openreview*) GraphGPT: Graph Learning with Generative Pre-trained Transformers [[paper](https://openreview.net/forum?id=070DFUdNh7)]
 
 
 

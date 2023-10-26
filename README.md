@@ -5,6 +5,7 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 
 ## Paper List
 **🔥Sitao's Recommendation**
+**👑Reported results surpass SOTA GNNs' results on node classification tasks**
 - (*ICLR 2023*) Learning on Large-scale Text-attributed Graphs via Variational Inference [[paper](https://arxiv.org/abs/2210.14709)][[code](https://github.com/andyjzhao/glem)]
 - (*KDD 2023*) Graph-Aware Language Model Pre-Training on a Large Graph Corpus Can Help Multiple Graph Applications [[paper](https://arxiv.org/abs/2306.02592)]
 - (*KDD 2023*) GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks [[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539249?casa_token=aP31ZFjvE9UAAAAA%3AD5NJiws3M0RFdDfv2MTevEN6SeHbXolI_RJx_2S6erqKQ-qn1TM8_F9aQPTu6nFjlHndoMyxqDI)][[code](https://github.com/MingChen-Sun/GPPT)]
@@ -20,7 +21,7 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*arXiv 2023.07*) Can Large Language Models Empower Molecular Property Prediction? [[paper](https://arxiv.org/abs/2307.07443)] [[code](https://github.com/ChnQ/LLM4Mol)]
 - (*arXiv 2023.07*) Prompt Tuning on Graph-augmented Low-resource Text Classification [[paper](https://arxiv.org/abs/2307.10230)] [[code](https://github.com/wenzhihao666/g2p2-conditional)]
 - (*arXiv 2023.07*) Prompt-Based Zero- and Few-Shot Node Classification: A Multimodal Approach [[paper](https://arxiv.org/abs/2307.11572)]
-- 🔥(*arXiv 2023.08*) Natural Language is All a Graph Needs [[paper](https://arxiv.org/abs/2308.07134)]
+- 🔥👑(*arXiv 2023.08*) Natural Language is All a Graph Needs [[paper](https://arxiv.org/abs/2308.07134)]
 - (*arXiv 2023.08*) SimTeG: A Frustratingly Simple Approach Improves Textual Graph Learning [[paper](https://arxiv.org/abs/2308.02565)] [[code](https://github.com/vermouthdky/simteg)]
 - (*arXiv 2023.09*) Unleashing the Power of Graph Learning through LLM-based Autonomous Agents [[paper](https://arxiv.org/abs/2309.04565)]
 - 🔥(*arXiv 2023.09*) Can LLMs Effectively Leverage Structural Information for Graph Learning: When and Why [[paper](https://arxiv.org/pdf/2309.16595)] [[code](https://github.com/TRAIS-Lab/LLM-Structured-Data)]
@@ -35,7 +36,8 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*openreview*) Spatio-Temporal Graph Learning with Large Language Model [[paper](https://openreview.net/forum?id=QUkcfqa6GX)]
 - (*openreview*) Simple Yet Effective Spatio-Temporal Prompt Learning [[paper](https://openreview.net/forum?id=YUNnVFlpjp)]
 - (*arXiv 2023.10*) Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models [[paper](https://arxiv.org/abs/2310.03965)]
-- 🔥(*arXiv 2023.10*) GraphGPT: Graph Instruction Tuning for Large Language Models [[paper](https://arxiv.org/abs/2310.13023)][[code](https://github.com/HKUDS/GraphGPT)] [[project page](https://graphgpt.github.io/)] [[openreview](https://openreview.net/forum?id=070DFUdNh7)]
+- 🔥👑(*arXiv 2023.10*) GraphGPT: Graph Instruction Tuning for Large Language Models [[paper](https://arxiv.org/abs/2310.13023)][[code](https://github.com/HKUDS/GraphGPT)][[project page](https://graphgpt.github.io/)][[openreview](https://openreview.net/forum?id=070DFUdNh7)]
+- 👑(*arXiv 2023.10*) Graph Agent: Explicit Reasoning Agent for Graphs [[paper](https://arxiv.org/abs/2310.16421)]
 
 ## Survey
 - (*arXiv 2023.10*) Towards Graph Foundation Models: A Survey and Beyond [[paper](https://arxiv.org/abs/2310.11829)]

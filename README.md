@@ -43,6 +43,7 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*openreview*) Spatio-Temporal Graph Learning with Large Language Model [[paper](https://openreview.net/forum?id=QUkcfqa6GX)]
 - (*openreview*) Simple Yet Effective Spatio-Temporal Prompt Learning [[paper](https://openreview.net/forum?id=YUNnVFlpjp)]
 - (*openreview*) GraphGPT: Graph Learning with Generative Pre-trained Transformers [[paper](https://openreview.net/forum?id=070DFUdNh7)]
+- (*openreview*) GraphAgent: Exploiting Large Language Models for Interpretable Learning on Text-attributed Graphs [[paper](https://openreview.net/forum?id=L3jATpVEGv)]
 - (*arXiv 2023.10*) Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models [[paper](https://arxiv.org/abs/2310.03965)]
 - 🔥👑(*arXiv 2023.10*) GraphGPT: Graph Instruction Tuning for Large Language Models [[paper](https://arxiv.org/abs/2310.13023)][[code](https://github.com/HKUDS/GraphGPT)][[project page](https://graphgpt.github.io/)][[blog in Chinese](https://mp.weixin.qq.com/s/rvKTFdCk719Q6hT09Caglw)]
 - 👑(*arXiv 2023.10*) Graph Agent: Explicit Reasoning Agent for Graphs [[paper](https://arxiv.org/abs/2310.16421)]

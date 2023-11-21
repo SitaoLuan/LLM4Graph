@@ -52,6 +52,7 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*arXiv 2023.10*) HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks [[paper](https://arxiv.org/abs/2310.15318)]
 - (*arXiv 2023.10*) Enhancing Graph Neural Networks with Structure-Based Prompt [[paper](https://arxiv.org/abs/2310.17394)]
 - (*arXiv 2023.10*) ULTRA-DP: Unifying Graph Pre-training with Multi-task Graph Dual Prompt [[paper](https://arxiv.org/abs/2310.14845)]
+- (*arXiv 2023.11*) Which Modality should I use -- Text, Motif, or Image? : Understanding Graphs with Large Language Models [[paper](https://arxiv.org/abs/2311.09862)]
 
 
 ## Survey

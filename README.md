@@ -58,7 +58,8 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 ## Survey
 - (*arXiv 2023.10*) Towards Graph Foundation Models: A Survey and Beyond [[paper](https://arxiv.org/abs/2310.11829)]
 - (*IEEE Intelligent Systems 2023*) Integrating Graphs with Large Language Models: Methods and Prospects [[paper](https://arxiv.org/abs/2310.05499)]
-- (*NeurIPS GLFrontiers 2023*) Integrating Graphs with Large Language Models: Methods and Prospects [[paper](https://arxiv.org/abs/2308.14522)] 
+- (*NeurIPS GLFrontiers 2023*) Integrating Graphs with Large Language Models: Methods and Prospects [[paper](https://arxiv.org/abs/2308.14522)]
+- (*arXiv 2023.11*) A Survey of Graph Meets Large Language Model: Progress and Future Directions [[paper](https://arxiv.org/abs/2311.12399)]
 
 ## Related Repository
 
@@ -67,3 +68,4 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - [Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG)
 - [KG-LLM-Papers](https://github.com/zjukg/KG-LLM-Papers)
 - [Awesome-Graph-Prompt](https://github.com/WxxShirley/Awesome-Graph-Prompt)
+- [Awesome-LLMs-in-Graph-tasks](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks)

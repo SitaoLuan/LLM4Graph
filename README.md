@@ -17,7 +17,7 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*SIGIR 2023*) Augmenting Low-Resource Text Classification with Graph-Grounded Pre-training and Prompting [[paper](https://arxiv.org/abs/2305.03324)][[code](https://github.com/WenZhihao666/G2P2)]
 - (*NeurIPS 2023*) GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning [[paper](https://arxiv.org/abs/2306.13089)] [[code](https://github.com/zhao-ht/GIMLET)]
 - (*NeurIPS 2023*) WalkLM: A Uniform Language Model Fine-tuning Framework for Attributed Graph Embedding [[paper](https://openreview.net/forum?id=ZrG8kTbt70)]
-- (*NeurIPS 2023*) Universal Prompt Tuning for Graph Neural Networks [[paper](https://arxiv.org/pdf/2209.15240.pdf)]
+- (*NeurIPS 2023*) Universal Prompt Tuning for Graph Neural Networks [[paper](https://arxiv.org/pdf/2209.15240.pdf)] [[Code](https://github.com/LuckyTiger123/GPF)]
 - (*NeurIPS'23*) Can Language Models Solve Graph Problems in Natural Language? [[paper](https://arxiv.org/abs/2305.10037)][[code](https://github.com/Arthur-Heng/NLGraph)]
 
 ### Preprint
@@ -33,6 +33,7 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*arXiv 2023.09*) Unleashing the Power of Graph Learning through LLM-based Autonomous Agents [[paper](https://arxiv.org/abs/2309.04565)]
 - 🔥(*arXiv 2023.09*) Can LLMs Effectively Leverage Structural Information for Graph Learning: When and Why [[paper](https://arxiv.org/pdf/2309.16595)] [[code](https://github.com/TRAIS-Lab/LLM-Structured-Data)]
 - (*arXiv 2023.09*) One for All: Towards Training One Graph Model for All Classification Tasks [[paper](https://arxiv.org/abs/2310.00149)] [[code](https://github.com/lechengkong/oneforall)]
+- (*arXiv 2023.09*) Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs [[paper](https://arxiv.org/abs/2309.02848)]
 - 🔥(*arXiv 2023.10*) GraphText: Graph Reasoning in Text Space [[paper](https://arxiv.org/abs/2310.01089)] [[code](https://github.com/AndyJZhao/GraphText)]
 - (*arXiv 2023.10*) Label-free Node Classification on Graphs with Large Language Models (LLMS) [[paper](https://arxiv.org/abs/2310.04668)]  [[code](https://github.com/CurryTang/LLMGNN)]
 - (*arXiv 2023.10*) GraphLLM: Boosting Graph Reasoning Ability of Large Language Model [[paper](https://arxiv.org/abs/2310.05845)][[code](https://github.com/mistyreed63849/Graph-LLM)]
@@ -53,6 +54,7 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*arXiv 2023.10*) Enhancing Graph Neural Networks with Structure-Based Prompt [[paper](https://arxiv.org/abs/2310.17394)]
 - (*arXiv 2023.10*) ULTRA-DP: Unifying Graph Pre-training with Multi-task Graph Dual Prompt [[paper](https://arxiv.org/abs/2310.14845)]
 - (*arXiv 2023.11*) Which Modality should I use -- Text, Motif, or Image? : Understanding Graphs with Large Language Models [[paper](https://arxiv.org/abs/2311.09862)]
+- (*arXiv 2023.11*) Large Language Models as Topological Structure Enhancers for Text-Attributed Graphs [[paper](https://arxiv.org/abs/2311.14324)]
 
 
 ## Survey

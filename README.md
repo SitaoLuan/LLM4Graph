@@ -18,7 +18,9 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*NeurIPS 2023*) GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning [[paper](https://arxiv.org/abs/2306.13089)] [[code](https://github.com/zhao-ht/GIMLET)]
 - (*NeurIPS 2023*) WalkLM: A Uniform Language Model Fine-tuning Framework for Attributed Graph Embedding [[paper](https://openreview.net/forum?id=ZrG8kTbt70)]
 - (*NeurIPS 2023*) Universal Prompt Tuning for Graph Neural Networks [[paper](https://arxiv.org/pdf/2209.15240.pdf)] [[Code](https://github.com/LuckyTiger123/GPF)]
-- (*NeurIPS'23*) Can Language Models Solve Graph Problems in Natural Language? [[paper](https://arxiv.org/abs/2305.10037)][[code](https://github.com/Arthur-Heng/NLGraph)]
+- (*NeurIPS 2023*) Can Language Models Solve Graph Problems in Natural Language? [[paper](https://arxiv.org/abs/2305.10037)][[code](https://github.com/Arthur-Heng/NLGraph)]
+- (*EMNLP 2023*) GRENADE: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs [[paper](https://arxiv.org/abs/2310.15109)][[code](https://github.com/bigheiniu/GRENADE)]
+- (*EMNLP 2023*) Pretraining Language Models with Text-Attributed Heterogeneous Graphs [[paper](https://arxiv.org/abs/2310.12580)][[code](https://github.com/Hope-Rita/THLM)]
 
 ### Preprint
 - (*arXiv 2023.02*) SGL-PT: A Strong Graph Learner with Graph Prompt Tuning [[paper](https://arxiv.org/abs/2302.12449)] [[blog in Chinese](https://zhuanlan.zhihu.com/p/618781703)]
@@ -57,6 +59,7 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*arXiv 2023.10*) Learning Multiplex Embeddings on Text-rich Networks with One Text Encoder [[paper](https://arxiv.org/abs/2310.06684)][[code](https://github.com/PeterGriffinJin/METERN-submit)]
 - (*arXiv 2023.11*) Which Modality should I use -- Text, Motif, or Image? : Understanding Graphs with Large Language Models [[paper](https://arxiv.org/abs/2311.09862)]
 - (*arXiv 2023.11*) Large Language Models as Topological Structure Enhancers for Text-Attributed Graphs [[paper](https://arxiv.org/abs/2311.14324)]
+- (*arXiv 2023.12*) Efficient Large Language Models Fine-Tuning On Graphs [[paper](https://arxiv.org/abs/2312.04737)]
 
 
 ## Survey

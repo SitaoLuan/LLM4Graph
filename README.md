@@ -60,6 +60,7 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*arXiv 2023.11*) Which Modality should I use -- Text, Motif, or Image? : Understanding Graphs with Large Language Models [[paper](https://arxiv.org/abs/2311.09862)]
 - (*arXiv 2023.11*) Large Language Models as Topological Structure Enhancers for Text-Attributed Graphs [[paper](https://arxiv.org/abs/2311.14324)]
 - (*arXiv 2023.12*) Efficient Large Language Models Fine-Tuning On Graphs [[paper](https://arxiv.org/abs/2312.04737)]
+- (*Instruction Workshop @ NeurIPS 2023*) Cross-Modal Learning for Chemistry Property Prediction: Large Language Models Meet Graph Machine Learning [[paper](https://openreview.net/forum?id=umtG8Hs32R)]
 
 
 ## Survey

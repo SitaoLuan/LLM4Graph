@@ -8,9 +8,9 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 **👑Reported results surpass SOTA GNNs' results on node classification tasks**
 
 ### Published Paper
+- (*KDD 2022*) GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks [[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539249?casa_token=aP31ZFjvE9UAAAAA%3AD5NJiws3M0RFdDfv2MTevEN6SeHbXolI_RJx_2S6erqKQ-qn1TM8_F9aQPTu6nFjlHndoMyxqDI)][[code](https://github.com/MingChen-Sun/GPPT)]
 - (*ICLR 2023*) Learning on Large-scale Text-attributed Graphs via Variational Inference [[paper](https://arxiv.org/abs/2210.14709)][[code](https://github.com/andyjzhao/glem)]
 - (*KDD 2023*) Graph-Aware Language Model Pre-Training on a Large Graph Corpus Can Help Multiple Graph Applications [[paper](https://arxiv.org/abs/2306.02592)]
-- (*KDD 2023*) GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks [[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539249?casa_token=aP31ZFjvE9UAAAAA%3AD5NJiws3M0RFdDfv2MTevEN6SeHbXolI_RJx_2S6erqKQ-qn1TM8_F9aQPTu6nFjlHndoMyxqDI)][[code](https://github.com/MingChen-Sun/GPPT)]
 - (*KDD 2023*) All in One: Multi-task Prompting for Graph Neural Networks [[paper](https://arxiv.org/abs/2307.01504)][[code](https://github.com/sheldonresearch/ProG)]
 - (*KDD 2023*) Virtual Node Tuning for Few-shot Node Classification [[paper](https://arxiv.org/abs/2306.06063)]
 - (*WWW 2023*) GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks [[paper](https://dl.acm.org/doi/10.1145/3543507.3583386)][[code](https://github.com/Starlien95/GraphPrompt)][[blog in Chinese](https://zhuanlan.zhihu.com/p/618189777)]
@@ -21,10 +21,12 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*NeurIPS 2023*) Can Language Models Solve Graph Problems in Natural Language? [[paper](https://arxiv.org/abs/2305.10037)][[code](https://github.com/Arthur-Heng/NLGraph)]
 - (*EMNLP 2023*) GRENADE: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs [[paper](https://arxiv.org/abs/2310.15109)][[code](https://github.com/bigheiniu/GRENADE)]
 - (*EMNLP 2023*) Pretraining Language Models with Text-Attributed Heterogeneous Graphs [[paper](https://arxiv.org/abs/2310.12580)][[code](https://github.com/Hope-Rita/THLM)]
+- (*ICLR 2024*) One for All: Towards Training One Graph Model for All Classification Tasks [[paper](https://arxiv.org/abs/2310.00149)] [[code](https://github.com/lechengkong/oneforall)]
+- 🔥(*ICLR 2024*) Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning [[paper](https://arxiv.org/abs/2305.19523)][[code](https://github.com/XiaoxinHe/TAPE)]
+- (*ICLR 2024*) Label-free Node Classification on Graphs with Large Language Models (LLMS) [[paper](https://arxiv.org/abs/2310.04668)]  [[code](https://github.com/CurryTang/LLMGNN)]
 
 ### Preprint
 - (*arXiv 2023.02*) SGL-PT: A Strong Graph Learner with Graph Prompt Tuning [[paper](https://arxiv.org/abs/2302.12449)] [[blog in Chinese](https://zhuanlan.zhihu.com/p/618781703)]
-- 🔥(*arXiv 2023.05*) Explanations as Features: LLM-Based Features for Text-Attributed Graphs [[paper](https://arxiv.org/abs/2305.19523)][[code](https://github.com/XiaoxinHe/TAPE)]
 - (*openreview*) Pretrained Language Models to Solve Graph Tasks in Natural Language [[paper](https://openreview.net/forum?id=LfCzmmnH4L)]
 - (*arXiv 2023.07*) Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs [[paper](https://arxiv.org/abs/2307.03393)] [[code](https://github.com/CurryTang/Graph-LLM)][[blog in Chinese](https://zhuanlan.zhihu.com/p/648366848)]
 - (*arXiv 2023.07*) Can Large Language Models Empower Molecular Property Prediction? [[paper](https://arxiv.org/abs/2307.07443)] [[code](https://github.com/ChnQ/LLM4Mol)]
@@ -34,11 +36,9 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*arXiv 2023.08*) SimTeG: A Frustratingly Simple Approach Improves Textual Graph Learning [[paper](https://arxiv.org/abs/2308.02565)] [[code](https://github.com/vermouthdky/simteg)]
 - (*arXiv 2023.09*) Unleashing the Power of Graph Learning through LLM-based Autonomous Agents [[paper](https://arxiv.org/abs/2309.04565)]
 - 🔥(*arXiv 2023.09*) Can LLMs Effectively Leverage Structural Information for Graph Learning: When and Why [[paper](https://arxiv.org/pdf/2309.16595)] [[code](https://github.com/TRAIS-Lab/LLM-Structured-Data)]
-- (*arXiv 2023.09*) One for All: Towards Training One Graph Model for All Classification Tasks [[paper](https://arxiv.org/abs/2310.00149)] [[code](https://github.com/lechengkong/oneforall)]
 - (*arXiv 2023.09*) Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs [[paper](https://arxiv.org/abs/2309.02848)]
 - (*arXiv 2023.09*) TouchUp-G: Improving Feature Representation through Graph-Centric Finetuning [[paper](https://arxiv.org/abs/2309.13885)]
 - 🔥(*arXiv 2023.10*) GraphText: Graph Reasoning in Text Space [[paper](https://arxiv.org/abs/2310.01089)] [[code](https://github.com/AndyJZhao/GraphText)]
-- (*arXiv 2023.10*) Label-free Node Classification on Graphs with Large Language Models (LLMS) [[paper](https://arxiv.org/abs/2310.04668)]  [[code](https://github.com/CurryTang/LLMGNN)]
 - (*arXiv 2023.10*) GraphLLM: Boosting Graph Reasoning Ability of Large Language Model [[paper](https://arxiv.org/abs/2310.05845)][[code](https://github.com/mistyreed63849/Graph-LLM)]
 - (*arXiv 2023.10*) Talk Like a Graph: Encoding Graphs for Large Language Models [[paper](https://arxiv.org/abs/2310.04560)]
 - (*arXiv 2023.10*) Beyond Text: A Deep Dive into Large Language Models' Ability on Understanding Graph Data [[paper](https://arxiv.org/abs/2310.04944)]
@@ -61,6 +61,7 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*arXiv 2023.11*) Large Language Models as Topological Structure Enhancers for Text-Attributed Graphs [[paper](https://arxiv.org/abs/2311.14324)]
 - (*arXiv 2023.12*) Efficient Large Language Models Fine-Tuning On Graphs [[paper](https://arxiv.org/abs/2312.04737)]
 - (*Instruction Workshop @ NeurIPS 2023*) Cross-Modal Learning for Chemistry Property Prediction: Large Language Models Meet Graph Machine Learning [[paper](https://openreview.net/forum?id=umtG8Hs32R)]
+- (*arXiv 2024.01*) Graph Language Models [[paper](https://arxiv.org/abs/2401.07105)][[code](https://github.com/Heidelberg-NLP/GraphLanguageModels)]
 
 
 ## Survey

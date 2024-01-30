@@ -62,6 +62,9 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*arXiv 2023.12*) Efficient Large Language Models Fine-Tuning On Graphs [[paper](https://arxiv.org/abs/2312.04737)]
 - (*Instruction Workshop @ NeurIPS 2023*) Cross-Modal Learning for Chemistry Property Prediction: Large Language Models Meet Graph Machine Learning [[paper](https://openreview.net/forum?id=umtG8Hs32R)]
 - (*arXiv 2024.01*) Graph Language Models [[paper](https://arxiv.org/abs/2401.07105)][[code](https://github.com/Heidelberg-NLP/GraphLanguageModels)]
+- (*arXiv 2024.01*) Scalable Link Prediction on Large-Scale Heterogeneous Graphs with Large Language Models [[paper](https://arxiv.org/abs/2401.13227)]
+- (*arXiv 2024.01*) How Can Large Language Models Understand Spatial-Temporal Data? [[paper](https://arxiv.org/abs/2401.14192)]
+- (*arXiv 2024.01*) Efficient Tuning and Inference for Large Language Models on Textual Graphs [[paper](https://arxiv.org/abs/2401.15569)]
 
 
 ## Survey

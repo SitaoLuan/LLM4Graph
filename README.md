@@ -65,6 +65,12 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*arXiv 2024.01*) Scalable Link Prediction on Large-Scale Heterogeneous Graphs with Large Language Models [[paper](https://arxiv.org/abs/2401.13227)]
 - (*arXiv 2024.01*) How Can Large Language Models Understand Spatial-Temporal Data? [[paper](https://arxiv.org/abs/2401.14192)]
 - (*arXiv 2024.01*) Efficient Tuning and Inference for Large Language Models on Textual Graphs [[paper](https://arxiv.org/abs/2401.15569)]
+- (*arXiv 2024.02*) Similarity-based Neighbor Selection for Graph LLMs [[paper](https://arxiv.org/abs/2402.03720)] [[code](https://github.com/ruili33/sns)]
+- (*arXiv 2024.02*) Large Language Model Meets Graph Neural Network in Knowledge Distillation [[paper](https://arxiv.org/pdf/2402.05894.pdf)]
+- (*arXiv 2024.02*) Let Your Graph Do the Talking: Encoding Structured Data for LLMs [[paper](https://arxiv.org/pdf/2402.05862.pdf)]
+- (*arXiv 2024.02*) GraphTranslator: Aligning Graph Model to Large Language Model for Open-ended Tasks [[paper](https://arxiv.org/pdf/2402.07197.pdf)]
+- (*arXiv 2024.02*) InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment [[paper](https://arxiv.org/abs/2402.08785)]
+- (*arXiv 2024.02*) HyperBERT: Mixing Hypergraph-Aware Layers with Language Models for Node Classification on Text-Attributed Hypergraphs [[paper](https://arxiv.org/abs/2402.07309)]
 
 
 ## Survey
@@ -73,7 +79,8 @@ Large Language Model (LLM) has revolutionized lots of areas and is now making it
 - (*NeurIPS GLFrontiers 2023*) Integrating Graphs with Large Language Models: Methods and Prospects [[paper](https://arxiv.org/abs/2308.14522)]
 - (*arXiv 2023.11*) A Survey of Graph Meets Large Language Model: Progress and Future Directions [[paper](https://arxiv.org/abs/2311.12399)]
 - (*arXiv 2023.12*) Large Language Models on Graphs: A Comprehensive Survey [[paper](https://arxiv.org/abs/2312.02783)]
-
+- (*arXiv 2024.02*) Advancing Graph Representation Learning with Large Language Models: A Comprehensive Survey of Techniques [[paper](https://arxiv.org/pdf/2402.05952.pdf)]
+  
 ## Related Repository
 
 - [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
